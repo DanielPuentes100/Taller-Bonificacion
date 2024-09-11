@@ -1,0 +1,67 @@
+.flexcontenedor {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.flexcontenedor>div {
+
+    width: 100px;
+    margin: 100px;
+
+
+}
+
+.centrartexto {
+
+    text-align: center;
+
+}
+
+
+.divtexto{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+
+
+.divparrafo{
+
+    display: flex;
+}
+
+.parrafo1{
+
+    width: 20%;
+    
+}
+
+.parrafo2{
+
+width: 20%;
+
+}
+
+.parrafo3{
+
+width: 20%;
+
+}
+
+.centrar{
+
+    text-align: center;
+
+}
+
+.divdato1{
+    width: 50%;
+    margin: auto;
+}
+
+
+
